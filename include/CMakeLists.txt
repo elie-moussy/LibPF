@@ -80,7 +80,7 @@ SET(NEWFILES
   priors/Sample.h
   priors/gauss2d.txt
   priors/gaussMix2d.txt
-  priors/imgPrior_YX.txt
+  priors/imgPrior_XY.txt
   priors/PriorList.txt
   shapedesc/shape.h
   shapedesc/ShapeModels.h
