@@ -1,0 +1,18 @@
+<PriorType>
+PRIORGAUSS
+</PriorType>
+
+<dim>
+4
+</dim>
+
+<mean>
+160	120	160	120
+</mean>
+
+<cov>
+9	0	0	0
+0	5	0	0
+0	0	6	0
+0	0	0	4
+</cov>

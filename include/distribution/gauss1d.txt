@@ -1,0 +1,11 @@
+<dim>
+1
+</dim>
+
+<mean>
+0
+</mean>
+
+<cov>
+160
+</cov>

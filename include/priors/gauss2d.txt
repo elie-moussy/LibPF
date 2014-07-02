@@ -1,0 +1,16 @@
+<PriorType>
+PRIORGAUSS
+</PriorType>
+
+<nCP>
+2
+</nCP>
+
+<PriorMean>
+160	120
+</PriorMean>
+
+<PriorCov>
+550	0
+0	520
+</PriorCov>
