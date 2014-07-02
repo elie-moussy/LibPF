@@ -1,4 +1,4 @@
-#include "inputDetector.h"
+#include "twoDDetector/inputDetector.h"
 #include <time.h>
 #include <opencv2/objdetect/objdetect.hpp>
 

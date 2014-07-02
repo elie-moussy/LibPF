@@ -1,11 +1,13 @@
-#include "TargetICU.h"
+#include "targets/TargetICU.h"
 
 TargetICU::TargetICU(string nomfic, ImgProducer* imgBank, 
 			 twoDDetector* detector, Prior* prior, 
 			 ContDynamicModel* ContDynamic, 
 			 DiscDynamicModel** DiscDynamic):Target(nomfic,imgBank,
 								detector,prior,
-								ContDynamic,DiscDynamic)
+								ContDynamic,DiscDynamic),
+							 colorCue(false),
+							 motionCue(false)
 {
   if(!Load(nomfic)) 
     cout << "|ERROR|--> TargetICU (Constructor) \t:\t error loading parameters from file" << endl;

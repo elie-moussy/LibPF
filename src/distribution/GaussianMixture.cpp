@@ -1,4 +1,4 @@
-#include "GaussianMixture.h"
+#include "distribution/GaussianMixture.h"
 
 /*! \fn GaussianMixture::GaussianMixture(string nomfic)
  *  \brief Class constructor from a file

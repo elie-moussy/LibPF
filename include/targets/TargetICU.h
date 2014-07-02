@@ -46,7 +46,7 @@ class TargetICU:public Target
   /*******************/
 
   /* Flag d'utilisation de l'attribut couleur */
-  bool colorCue = false;
+  bool colorCue;
 
   /* MultiPatch (forme de la cible) */
   RoiManager* colorPatch;
@@ -66,7 +66,7 @@ class TargetICU:public Target
   /*****************/
 
   /* Flag d'utilisation de l'attribut mvt */
-  bool motionCue = false;
+  bool motionCue;
 
   /* MultiPatch (forme de la cible) */
   RoiManager* motionPatch;

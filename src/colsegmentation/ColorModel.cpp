@@ -1,4 +1,4 @@
-#include "ColorModel.h"
+#include "colsegmentation/ColorModel.h"
 
 ColorModel::ColorModel(int base)
 {

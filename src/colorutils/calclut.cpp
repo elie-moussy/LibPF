@@ -1,4 +1,4 @@
-#include "calclut.h"
+#include "colorutils/calclut.h"
 
 /************************************** Calcul fausses couleurs ****************************************/
 

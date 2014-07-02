@@ -1,4 +1,4 @@
-#include "Sample.h"
+#include "priors/Sample.h"
 
 /*!
  * Constructor

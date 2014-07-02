@@ -1,4 +1,4 @@
-#include "ShapeLikelihood.h"
+#include "likelihood/nok/ShapeLikelihood.h"
 
  /* Constructeur */
 ShapeLikelihood::ShapeLikelihood(enum MesType selmode, ImgProducer* imgB):Likelihood(imgB)

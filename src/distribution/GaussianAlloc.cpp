@@ -1,4 +1,4 @@
-#include "GaussianAlloc.h"
+#include "distribution/GaussianAlloc.h"
 
 /* allocation d'une gaussienne a partir d'un fichier */
 Gaussian* GaussianAlloc(string nomfic, string dispdec)

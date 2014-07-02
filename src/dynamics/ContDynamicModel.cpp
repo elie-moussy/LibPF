@@ -1,4 +1,4 @@
-#include "ContDynamicModel.h"
+#include "dynamics/ContDynamicModel.h"
 
 ContDynamicModel::ContDynamicModel()
 {

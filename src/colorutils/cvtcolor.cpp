@@ -1,4 +1,4 @@
-#include "cvtcolor.h"
+#include "colorutils/cvtcolor.h"
 
 /*
   Methodes de conversion couleur qui ne sont pas dans opencv

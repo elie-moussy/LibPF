@@ -1,5 +1,5 @@
 //Fonctions relatives aux histogrammes
-#include "histogrammes.h"
+#include "imageutils/histogrammes.h"
 
 
 

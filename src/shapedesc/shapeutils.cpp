@@ -1,4 +1,4 @@
-#include "shapeutils.h"
+#include "shapedesc/shapeutils.h"
 
 /*
   Fonction de calcul du rayon et angles entre un point de ref

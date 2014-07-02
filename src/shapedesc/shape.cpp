@@ -1,4 +1,4 @@
-#include "shape.h"
+#include "shapedesc/shape.h"
 
 /*
  * Constructeur de la classe

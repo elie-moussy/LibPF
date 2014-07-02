@@ -1,4 +1,4 @@
-#include "twoDDetector.h"
+#include "twoDDetector/twoDDetector.h"
 
 twoDDetector::twoDDetector(string file,ImgProducer* imgB)
 {

@@ -1,4 +1,4 @@
-#include "Gaussian.h"
+#include "distribution/Gaussian.h"
 
 /*!
  * Constructor

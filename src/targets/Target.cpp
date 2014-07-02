@@ -1,4 +1,4 @@
-#include "Target.h"
+#include "targets/Target.h"
 
 
 Target::Target(string nomfic, ImgProducer* imgBank, twoDDetector* detector, Prior* prior, 

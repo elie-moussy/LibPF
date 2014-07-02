@@ -1,4 +1,4 @@
-#include "ContDynamicRW.h"
+#include "dynamics/ContDynamicRW.h"
 
 ContDynamicRW::ContDynamicRW(string nomfic):ContDynamicModel()
 {

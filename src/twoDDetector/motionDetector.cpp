@@ -1,4 +1,4 @@
-#include "motionDetector.h"
+#include "twoDDetector/motionDetector.h"
 
 /* Constructeur
    w : largeur des images d'entree

@@ -1,5 +1,5 @@
-#include "ImgProducer.h"
-#include <opencv2/legacy/legacy_mod.hpp>
+#include "imgproducer/ImgProducer.h"
+#include <opencv2/legacy/legacy.hpp>
 
 /* Constructeur */
 ImgProducer::ImgProducer(int w, int h)

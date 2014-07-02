@@ -1,4 +1,4 @@
-#include "skincolormodel.h"
+#include "colsegmentation/skincolormodel.h"
 
 
  /* Constructeur par defaut, il ne charge pas de modele (on l'utilise classiquement avant de charger un modele) */

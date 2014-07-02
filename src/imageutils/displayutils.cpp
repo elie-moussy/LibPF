@@ -1,4 +1,4 @@
-#include "displayutils.h"
+#include "imageutils/displayutils.h"
 
 
 void Show( char* nm,IplImage* imgview, int pause)

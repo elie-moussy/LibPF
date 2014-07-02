@@ -1,4 +1,4 @@
-#include "GaussianND.h"
+#include "distribution/GaussianND.h"
 
 GaussianND::GaussianND(string nomfic, string dispdec):Gaussian(nomfic,dispdec)
 {

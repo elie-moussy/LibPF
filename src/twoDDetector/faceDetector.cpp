@@ -1,4 +1,4 @@
-#include "faceDetector.h"
+#include "twoDDetector/faceDetector.h"
 #include <time.h>
 
 /* Constructeur */

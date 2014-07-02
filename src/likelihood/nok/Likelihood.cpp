@@ -1,4 +1,4 @@
-#include "Likelihood.h"
+#include "likelihood/nok/Likelihood.h"
 
 Likelihood::Likelihood(ImgProducer* imgB)
 {

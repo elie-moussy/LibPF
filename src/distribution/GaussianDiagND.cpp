@@ -1,4 +1,4 @@
-#include "GaussianDiagND.h"
+#include "distribution/GaussianDiagND.h"
 
 GaussianDiagND::GaussianDiagND(string nomfic, string dispdec):Gaussian(nomfic,dispdec)
 {

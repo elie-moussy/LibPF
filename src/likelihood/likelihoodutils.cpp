@@ -1,4 +1,4 @@
-#include "likelihoodutils.h"
+#include "likelihood/likelihoodutils.h"
 
 
 // template<typename TW, typename TO> struct EdgeMesuredst

@@ -1,4 +1,4 @@
-#include "DiscDynamicModel.h"
+#include "dynamics/DiscDynamicModel.h"
 
 /*! \fn   DiscDynamicModel(string nomfic, int PPos=0)
  *  \brief this is the class constructor

@@ -1,4 +1,4 @@
-#include "skincolorsegmentation.h"
+#include "colsegmentation/skincolorsegmentation.h"
 
 /* Constructeur de la segmentation */
 SkinColorSegmentation::SkinColorSegmentation(string base, int w, int h)

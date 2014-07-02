@@ -26,7 +26,7 @@
 /**************************************************************************************/
 
 
-#include "temps_cpu.h"
+#include "timeutils/temps_cpu.h"
 
 static double cpu_avant = 0;
 static double cpu_apres = 0;

@@ -1,4 +1,4 @@
-#include "HogPeopleDetector.h"
+#include "twoDDetector/HogPeopleDetector.h"
 #include "opencv2/core/core.hpp"
 #include "opencv2/objdetect/objdetect.hpp"
 #include "opencv2/gpu/gpu.hpp"

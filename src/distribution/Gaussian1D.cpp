@@ -1,4 +1,4 @@
-#include "Gaussian1D.h"
+#include "distribution/Gaussian1D.h"
 
 
 

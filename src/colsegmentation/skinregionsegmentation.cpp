@@ -1,4 +1,4 @@
-#include "skinregionsegmentation.h"
+#include "colsegmentation/skinregionsegmentation.h"
 
 
 SkinRegionSegmentation::SkinRegionSegmentation(string basenm)

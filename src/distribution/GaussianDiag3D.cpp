@@ -1,4 +1,4 @@
-#include "GaussianDiag3D.h"
+#include "distribution/GaussianDiag3D.h"
 
 GaussianDiag3D::GaussianDiag3D(string nomfic, string dispdec):Gaussian(nomfic,dispdec)
 {
