@@ -70,6 +70,9 @@ ADD_LIBRARY(LibPF SHARED ${SOURCES})
 TARGET_LINK_LIBRARIES( ${PROJECT_NAME}
   ${LIBPF_LIB}
 
+  #Qt libs
+  ${QT_LIBRARIES}
+
   # OpenCV libs
   opencv_gpu
   opencv_highgui
