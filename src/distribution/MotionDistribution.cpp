@@ -1,4 +1,4 @@
-#include "distribution/MotionDistribution.h"
+#include "LibPF/distribution/MotionDistribution.h"
 
 // conversion tab used to speed conversion from motion level (0 .. 255) to bin value
 static int bins_tab[256];

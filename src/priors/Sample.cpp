@@ -1,4 +1,4 @@
-#include "priors/Sample.h"
+#include "LibPF/priors/Sample.h"
 
 /*!
  * Constructor

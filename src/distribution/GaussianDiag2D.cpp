@@ -1,4 +1,4 @@
-#include "distribution/GaussianDiag2D.h"
+#include "LibPF/distribution/GaussianDiag2D.h"
 
 GaussianDiag2D::GaussianDiag2D(string nomfic, string dispdec):Gaussian(nomfic,dispdec)
 {

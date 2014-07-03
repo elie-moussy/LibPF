@@ -1,4 +1,4 @@
-#include "twoDDetector/motionBlobDetector.h"
+#include "LibPF/twoDDetector/motionBlobDetector.h"
 
 /* Constructeur */
 motionBlobDetector::motionBlobDetector(string file, ImgProducer* imgB):twoDDetector(file,imgB)

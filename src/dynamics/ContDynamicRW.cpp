@@ -1,4 +1,4 @@
-#include "dynamics/ContDynamicRW.h"
+#include "LibPF/dynamics/ContDynamicRW.h"
 
 ContDynamicRW::ContDynamicRW(string nomfic):ContDynamicModel()
 {

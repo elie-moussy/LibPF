@@ -1,4 +1,4 @@
-#include "priors/PriorGaussMixture.h"
+#include "LibPF/priors/PriorGaussMixture.h"
 
 PriorGaussMixture::PriorGaussMixture(string nomfic):Prior()
 {

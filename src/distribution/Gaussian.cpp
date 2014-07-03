@@ -1,4 +1,4 @@
-#include "distribution/Gaussian.h"
+#include "LibPF/distribution/Gaussian.h"
 
 /*!
  * Constructor

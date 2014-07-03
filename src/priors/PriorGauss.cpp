@@ -1,4 +1,4 @@
-#include "priors/PriorGauss.h"
+#include "LibPF/priors/PriorGauss.h"
 
 PriorGauss::PriorGauss(string nomfic):Prior()
 {

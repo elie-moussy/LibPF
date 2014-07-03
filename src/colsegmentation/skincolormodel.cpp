@@ -1,4 +1,4 @@
-#include "colsegmentation/skincolormodel.h"
+#include "LibPF/colsegmentation/skincolormodel.h"
 
 
  /* Constructeur par defaut, il ne charge pas de modele (on l'utilise classiquement avant de charger un modele) */

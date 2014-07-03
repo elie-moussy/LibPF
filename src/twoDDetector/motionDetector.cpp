@@ -1,4 +1,4 @@
-#include "twoDDetector/motionDetector.h"
+#include "LibPF/twoDDetector/motionDetector.h"
 
 /* Constructeur
    w : largeur des images d'entree

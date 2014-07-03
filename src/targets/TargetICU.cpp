@@ -1,4 +1,4 @@
-#include "targets/TargetICU.h"
+#include "LibPF/targets/TargetICU.h"
 
 TargetICU::TargetICU(string nomfic, ImgProducer* imgBank, 
 			 twoDDetector* detector, Prior* prior, 

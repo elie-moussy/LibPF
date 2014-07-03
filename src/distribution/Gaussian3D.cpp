@@ -1,4 +1,4 @@
-#include "distribution/Gaussian3D.h"
+#include "LibPF/distribution/Gaussian3D.h"
 
 
 Gaussian3D::Gaussian3D(string nomfic, string dispdec):Gaussian(nomfic,dispdec)

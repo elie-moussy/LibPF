@@ -1,4 +1,4 @@
-#include "twoDDetector/skinBlobDetector.h"
+#include "LibPF/twoDDetector/skinBlobDetector.h"
 
 /* Constructeur */
 skinBlobDetector::skinBlobDetector(string file, ImgProducer* imgB):twoDDetector(file,imgB)

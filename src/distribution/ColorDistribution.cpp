@@ -1,4 +1,4 @@
-#include "distribution/ColorDistribution.h"
+#include "LibPF/distribution/ColorDistribution.h"
 
 // conversion tab used to speed up conversion from R or G or B to bin value 
 static int bins_tab[256];

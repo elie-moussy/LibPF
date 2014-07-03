@@ -1,4 +1,4 @@
-#include "distribution/Gaussian4D.h"
+#include "LibPF/distribution/Gaussian4D.h"
 
 Gaussian4D::Gaussian4D(string nomfic, string dispdec):Gaussian(nomfic,dispdec)
 {

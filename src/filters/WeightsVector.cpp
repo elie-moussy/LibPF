@@ -1,4 +1,4 @@
-#include "filters/WeightsVector.h"
+#include "LibPF/filters/WeightsVector.h"
 #include <string.h>
 /*! \fn WeightsVector(int taille)
  *  \brief this is the vector constructor

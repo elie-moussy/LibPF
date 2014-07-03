@@ -1,4 +1,4 @@
-#include "filters/ParticleFilter.h"
+#include "LibPF/filters/ParticleFilter.h"
 
 /*!
  *  \brief Class constructor : the particle filter is created using context parameters

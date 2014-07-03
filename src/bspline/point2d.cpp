@@ -15,7 +15,7 @@
  *                                                                         *
  ***************************************************************************/
 
-#include "bspline/point2d.h"
+#include "LibPF/bspline/point2d.h"
 
 
 Point2D::Point2D()

@@ -1,4 +1,4 @@
-#include "twoDDetector/twoDDetector.h"
+#include "LibPF/twoDDetector/twoDDetector.h"
 
 twoDDetector::twoDDetector(string file,ImgProducer* imgB)
 {

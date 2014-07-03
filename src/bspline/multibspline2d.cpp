@@ -7,7 +7,7 @@
  ***************************************************************************/
 
 
-#include "bspline/multibspline2d.h"
+#include "LibPF/bspline/multibspline2d.h"
 #define EPAISSEUR 1
 
 /*

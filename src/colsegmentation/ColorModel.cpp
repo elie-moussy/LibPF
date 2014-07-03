@@ -1,4 +1,4 @@
-#include "colsegmentation/ColorModel.h"
+#include "LibPF/colsegmentation/ColorModel.h"
 
 ColorModel::ColorModel(int base)
 {

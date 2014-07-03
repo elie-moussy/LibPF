@@ -1,4 +1,4 @@
-#include "dynamics/ContDynamicModel.h"
+#include "LibPF/dynamics/ContDynamicModel.h"
 
 ContDynamicModel::ContDynamicModel()
 {
